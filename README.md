@@ -13,7 +13,6 @@ To run the code and find combinations, use the `find_squares_sum` function in th
  
 ```python 
 from src.squares_sum import find_squares_sum 
-ECHO is off.
 n = 20 
 max_square = 20 
 combinations = find_squares_sum(n, max_square) 
